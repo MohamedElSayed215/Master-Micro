@@ -47,6 +47,9 @@ A Python GUI application built with **PySide6** and **Matplotlib** that allows u
    ```bash
    pytest test_function_plotter.py -v
    ```
+## Samples .. 
 ![image_alt](https://github.com/MohamedElSayed215/Master-Micro/blob/main/Python_Task/1.PNG)
+![image_alt](https://github.com/MohamedElSayed215/Master-Micro/blob/main/Python_Task/2.PNG)
+
 
    

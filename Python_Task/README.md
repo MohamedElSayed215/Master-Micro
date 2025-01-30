@@ -31,3 +31,23 @@ A Python GUI application built with **PySide6** and **Matplotlib** that allows u
    ```bash
    git clone https://github.com/your-username/function-plotter.git
    cd function-plotter
+2. **Install Dependencies**:
+   ```bash
+   pip install PySide6 matplotlib sympy pytest pytest-qt
+## Usage
+1. **Run the Program**:
+   ```bash
+   python function_plotter.py
+2. **Enter Functions**:
+   In the GUI, enter two functions of x in the input fields (e.g., 5*x^3 + 2*x and x^2 - 4).
+3. **Plot Functions**:
+   Click the "Plot Functions" button to plot the functions and display their intersection points.
+   
+## Running Tests
+   ```bash
+   pytest test_function_plotter.py -v
+
+![2](https://github.com/user-attachments/assets/70cd7813-6aa3-4aac-aa34-0b1ad0ededb7)
+![1](https://github.com/user-attachments/assets/ee6d8285-2ff2-4d69-944c-0e5674d55952)
+
+   
